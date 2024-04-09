@@ -1,0 +1,2 @@
+link das atividades com o nome at
+https://github.com/isquicha/exercicios-logica-python/tree/main/exercicios
